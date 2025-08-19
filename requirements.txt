@@ -1,0 +1,6 @@
+streamlit
+groq
+pdfplumber
+pydantic
+pillow
+paddleocr
